@@ -1,0 +1,27 @@
+_repo: A-cidade-do-vicio_63080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida, José Valentim Fialho de
+    birthdate: 1857
+    deathdate: 1911
+    gutenberg_agent_id: '25452'
+    url: http://www.gutenberg.org/2009/agents/25452
+    wikipedia: http://pt.wikipedia.org/wiki/Fialho_de_Almeida
+  editor:
+    agent_name: Chardron, Ernesto
+    gutenberg_agent_id: '52270'
+    url: http://www.gutenberg.org/2009/agents/52270
+description: ''
+gutenberg_issued: '2020-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63080'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A cidade do vicio
+url: http://www.gutenberg.org/ebooks/63080
